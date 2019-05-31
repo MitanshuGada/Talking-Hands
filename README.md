@@ -15,7 +15,26 @@ These instructions will get you a copy of the project up and running on your loc
 2. A good CPU and GPU.
 3. Atleast 8GB of RAM
 4. 1GB of Memory space to store the Software
-5. Python
+5. Python (3.6.8) Libraries:
+  a. future
+  b. os
+  c. time
+  d. sys
+  e. ctypes
+  f. math
+  g. random
+  h. cv2
+  i. numpy
+  j. speech_recognition
+  k. keyboard
+  l. googletrans
+  m. pyqt5
+  n. glob
+  o. imutils
+  p. pandas
+  q.matplotlib
+  r. OpenCV
+These are some  of the libraries that should be present.
 ```
 
 ### Installing
@@ -23,7 +42,7 @@ These instructions will get you a copy of the project up and running on your loc
 As we want to use YOLO V3 for Object Detection, we used [AlexeyAB's YOLO V3 Repository](https://github.com/AlexeyAB/darknet)
 If anyone wants to custom train the YOLO Object detector on their own dataset can do so by just following the steps mentioned by [AlexeyAB](https://github.com/AlexeyAB/darknet) in the respository.
 
-The Talking Hands Software can be downloaded by just clicking [Here]()
+The Talking Hands Software can be downloaded by just clicking [Here](https://drive.google.com/open?id=1TSKF5TFqWrDpArTOgzUvEfxWvyvEctPw)
 
 ## Final Loss Graph
 ![Loss Graph](LossGraph.png)
