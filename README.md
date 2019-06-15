@@ -42,7 +42,7 @@ These are some  of the libraries that should be present.
 As we want to use YOLO V3 for Object Detection, we used [AlexeyAB's YOLO V3 Repository](https://github.com/AlexeyAB/darknet)
 If anyone wants to custom train the YOLO Object detector on their own dataset can do so by just following the steps mentioned by [AlexeyAB](https://github.com/AlexeyAB/darknet) in the respository.
 
-__**The Talking Hands Software can be downloaded by just clicking [Here]**__(https://drive.google.com/open?id=1TSKF5TFqWrDpArTOgzUvEfxWvyvEctPw)
+_ **The Talking Hands Software can be downloaded by just clicking [Here](https://drive.google.com/open?id=1TSKF5TFqWrDpArTOgzUvEfxWvyvEctPw)** _
 
 ## Final Loss Graph
 ![Loss Graph](LossGraph.png)
